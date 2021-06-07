@@ -1,0 +1,9 @@
+C:\Users\solar\Source\Repos\JMF1DAW2\Estudiar3EvaTema7\ProyectoDocumentacion\ProyectoDocumentacion\bin\Debug\ProyectoDocumentacion.exe.config
+C:\Users\solar\Source\Repos\JMF1DAW2\Estudiar3EvaTema7\ProyectoDocumentacion\ProyectoDocumentacion\bin\Debug\ProyectoDocumentacion.exe
+C:\Users\solar\Source\Repos\JMF1DAW2\Estudiar3EvaTema7\ProyectoDocumentacion\ProyectoDocumentacion\bin\Debug\ProyectoDocumentacion.pdb
+C:\Users\solar\Source\Repos\JMF1DAW2\Estudiar3EvaTema7\ProyectoDocumentacion\ProyectoDocumentacion\obj\Debug\ProyectoDocumentacion.Properties.Resources.resources
+C:\Users\solar\Source\Repos\JMF1DAW2\Estudiar3EvaTema7\ProyectoDocumentacion\ProyectoDocumentacion\obj\Debug\ProyectoDocumentacion.csproj.GenerateResource.cache
+C:\Users\solar\Source\Repos\JMF1DAW2\Estudiar3EvaTema7\ProyectoDocumentacion\ProyectoDocumentacion\obj\Debug\ProyectoDocumentacion.csproj.CoreCompileInputs.cache
+C:\Users\solar\Source\Repos\JMF1DAW2\Estudiar3EvaTema7\ProyectoDocumentacion\ProyectoDocumentacion\obj\Debug\ProyectoDocumentacion.exe
+C:\Users\solar\Source\Repos\JMF1DAW2\Estudiar3EvaTema7\ProyectoDocumentacion\ProyectoDocumentacion\obj\Debug\ProyectoDocumentacion.pdb
+C:\Users\solar\Source\Repos\JMF1DAW2\Estudiar3EvaTema7\ProyectoDocumentacion\ProyectoDocumentacion\bin\Debug\ProyectoDocumentacion.xml
